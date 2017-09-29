@@ -823,7 +823,7 @@
 	text-align:center;
 }
 #book-title h1{
-	padding-top: 1em;
+	padding-top: 0.5em;
 	text-align: center;
 	border: none;
 	margin-bottom: 0em;
@@ -834,11 +834,14 @@
 	text-align: center;
 	color: #999;
 	font-size: 24px;
-	margin-bottom: 3em;
+	margin-bottom: 1em;
 }
 #book-title p{
 	margin-top:30px;
 	color:#aaa;
+}
+#book-title img{
+	width: 500px;
 }
 .work-sheet, 
 .wrok-sheet-s,

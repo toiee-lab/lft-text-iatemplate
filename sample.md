@@ -4,12 +4,11 @@
 ## Workshop Subtitle
 
 
-![](https://github.com/toiee-lab/lft-text-iatemplate/raw/master/sample-title.jpeg)
+![](https://github.com/toiee-lab/lft-text-iatemplate/raw/master/sample-title.jpeg)  
 version 0.8
 
 toiee Lab LIVE&trade; textbook for Learning Faciliator  
 &copy; 2017 toiee Lab (toiee.jp)
-
 </div>
 
 +++
