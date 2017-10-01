@@ -15,6 +15,9 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 
 ## イントロ
 
+<iframe src="https://player.vimeo.com/video/226849269" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
 講座の導入です。講座のゴールなどに触れます。
 
 | 開始 | 終了 | 所用時間 |

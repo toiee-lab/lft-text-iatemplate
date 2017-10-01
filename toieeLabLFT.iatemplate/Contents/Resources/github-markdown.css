@@ -866,7 +866,9 @@
 {
 	border: 1px solid #aaa;	
 }
-
+iframe {
+	display: none;
+}
 
 
 
