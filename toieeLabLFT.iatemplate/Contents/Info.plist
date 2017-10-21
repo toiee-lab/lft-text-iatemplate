@@ -7,11 +7,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleIdentifier</key>
-	<string>net.ia.writer.template.github</string>
+	<string>jp.toiee.ia.writer.template.lft-text</string>
 	<key>CFBundleName</key>
 	<string>toiee Lab</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.1</string>
+	<string>1.0.2</string>
 	<key>CFBundleVersion</key>
 	<string>2</string>
 	<key>IATemplateDocumentFile</key>
