@@ -11,7 +11,7 @@
 	<key>CFBundleName</key>
 	<string>toiee Lab</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.2</string>
+	<string>1.0.3</string>
 	<key>CFBundleVersion</key>
 	<string>2</string>
 	<key>IATemplateDocumentFile</key>
@@ -25,7 +25,7 @@
 	<key>IATemplateDescription</key>
 	<string>toiee Lab LFT Textbook Template.</string>
 	<key>IATemplateAuthor</key>
-	<string>toiee Lab 1.0</string>
+	<string>toiee Lab 1.1</string>
 	<key>IATemplateAuthorURL</key>
 	<string>https://toiee.jp/</string></dict>
 </plist>
