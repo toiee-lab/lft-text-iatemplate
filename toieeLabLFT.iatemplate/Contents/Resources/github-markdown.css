@@ -870,7 +870,8 @@ iframe {
 	display: none;
 }
 
-.get-material
+.get-material,
+.display-none-pdf
 {
 	display: none;	
 }
