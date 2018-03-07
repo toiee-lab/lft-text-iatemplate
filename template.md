@@ -86,6 +86,10 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 
 ### ワークの進行
 
+<div class="work-sheet">
+![](https://toiee.d.pr/hJWiGO+)
+</div>
+
 #### 1. Good & New
 
 
@@ -105,9 +109,7 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 
 #### 2. Think & Listen
 
-<div class="work-sheet">
-![](https://toiee.d.pr/hJWiGO+)
-</div>
+
 
 - Think & Listenは、思いつくまま、頭によぎったことを流れるように話すワーク
 - 支離滅裂になっても構わないので、話し続けてもらう
@@ -120,8 +122,6 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 > - 説明しきってからではなく、「まずはペアになってください」など、行動をさせながら説明すると、説明しやすい
 > - デモをすると、学習者がThink & Listenの取り組み方を理解しやすい
 > - 話し手と聴き手を決めてもらう時、「朝早く起きた方から」などとこちらが言うとスムーズに決まりやすい
-
-<div class="clear"></div>
 
 
 #### 3. 発表する
@@ -142,6 +142,7 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 > 
 > - これから探求していこう、疑問が解けていくから大丈夫と言って、安心してもらいつつ、期待を高める
 
+<div class="clear"></div>
 
 
 +++
@@ -164,6 +165,10 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 
 ### ワークの進行
 
+<div class="work-sheet">
+![](https://toiee.d.pr/hJWiGO+)
+</div>
+
 #### 1. 説明
 
 - 説明
@@ -179,10 +184,6 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 
 #### 2. ワーク説明
 
-<div class="work-sheet">
-![](https://toiee.d.pr/hJWiGO+)
-</div>
-
 - 説明
 - 説明
 - 説明
@@ -192,8 +193,6 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 > - ポイント1
 > - ポイント1
 > - ポイント1
-
-<div class="clear"></div>
 
 
 #### 3. 発表する
@@ -213,6 +212,9 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 > 
 > - まとめ
 
+<div class="work-sheet">
+![](https://toiee.d.pr/hJWiGO+)
+</div>
 
 
 
@@ -238,6 +240,10 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 
 ### ワークの進行
 
+<div class="work-sheet">
+![](https://toiee.d.pr/hJWiGO+)
+</div>
+
 #### 1. 説明
 
 - 説明
@@ -253,9 +259,6 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 
 #### 2. ワーク説明
 
-<div class="work-sheet">
-![](https://toiee.d.pr/hJWiGO+)
-</div>
 
 - 説明
 - 説明
@@ -266,8 +269,6 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 > - ポイント1
 > - ポイント1
 > - ポイント1
-
-<div class="clear"></div>
 
 
 #### 3. 発表する
@@ -287,6 +288,7 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 > 
 > - まとめ
 
+<div class="clear"></div>
 
 
 
@@ -315,6 +317,10 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 
 ### ワークの進行
 
+<div class="work-sheet">
+![](https://toiee.d.pr/hJWiGO+)
+</div>
+
 #### 1. 説明
 
 - 説明
@@ -330,10 +336,6 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 
 #### 2. ワーク説明
 
-<div class="work-sheet">
-![](https://toiee.d.pr/hJWiGO+)
-</div>
-
 - 説明
 - 説明
 - 説明
@@ -343,8 +345,6 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 > - ポイント1
 > - ポイント1
 > - ポイント1
-
-<div class="clear"></div>
 
 
 #### 3. 発表する
@@ -364,6 +364,8 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 > 
 > - まとめ
 
+
+<div class="clear"></div>
 
 
 
@@ -391,6 +393,10 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 
 ### ワークの進行
 
+<div class="work-sheet">
+![](https://toiee.d.pr/hJWiGO+)
+</div>
+
 #### 1. 説明
 
 - 説明
@@ -406,10 +412,6 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 
 #### 2. ワーク説明
 
-<div class="work-sheet">
-![](https://toiee.d.pr/hJWiGO+)
-</div>
-
 - 説明
 - 説明
 - 説明
@@ -419,8 +421,6 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 > - ポイント1
 > - ポイント1
 > - ポイント1
-
-<div class="clear"></div>
 
 
 #### 3. 発表する
@@ -440,13 +440,23 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 > 
 > - まとめ
 
+<div class="clear"></div>
 
 
 
 
 +++
 
+## 休憩
 
+| 開始 | 終了 | 所用時間 |
+|:--|:--|:--|
+| 1:30 | 1:40 | 10min |
+
+![休憩](https://github.com/toiee-lab/lft-text-iatemplate/raw/master/break.jpeg)
+
+
++++
 
 
 
@@ -467,6 +477,10 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 
 ### ワークの進行
 
+<div class="work-sheet">
+![](https://toiee.d.pr/hJWiGO+)
+</div>
+
 #### 1. 説明
 
 - 説明
@@ -482,10 +496,6 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 
 #### 2. ワーク説明
 
-<div class="work-sheet">
-![](https://toiee.d.pr/hJWiGO+)
-</div>
-
 - 説明
 - 説明
 - 説明
@@ -495,8 +505,6 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 > - ポイント1
 > - ポイント1
 > - ポイント1
-
-<div class="clear"></div>
 
 
 #### 3. 発表する
@@ -515,6 +523,9 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 > **ポイント**
 > 
 > - まとめ
+
+<div class="clear"></div>
+
 
 
 
@@ -538,6 +549,10 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 
 ### ワークの進行
 
+<div class="work-sheet">
+![](https://toiee.d.pr/hJWiGO+)
+</div>
+
 #### 1. 説明
 
 - 説明
@@ -553,10 +568,6 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 
 #### 2. ワーク説明
 
-<div class="work-sheet">
-![](https://toiee.d.pr/hJWiGO+)
-</div>
-
 - 説明
 - 説明
 - 説明
@@ -567,7 +578,6 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 > - ポイント1
 > - ポイント1
 
-<div class="clear"></div>
 
 
 #### 3. 発表する
@@ -587,6 +597,7 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 > 
 > - まとめ
 
+<div class="clear"></div>
 
 
 
@@ -611,6 +622,10 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 
 ### ワークの進行
 
+<div class="work-sheet">
+![](https://toiee.d.pr/hJWiGO+)
+</div>
+
 #### 1. 説明
 
 - 説明
@@ -626,9 +641,7 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 
 #### 2. 振り返り
 
-<div class="work-sheet">
-![](https://toiee.d.pr/hJWiGO+)
-</div>
+
 
 - 説明
 - 説明
@@ -640,7 +653,6 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 > - ポイント1
 > - ポイント1
 
-<div class="clear"></div>
 
 
 #### 3. 発表する
@@ -659,4 +671,6 @@ toiee Lab LIVE&trade; textbook for Learning Faciliator
 > **ポイント**
 > 
 > - まとめ
+
+<div class="clear"></div>
 
